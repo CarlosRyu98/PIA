@@ -14,3 +14,19 @@
 * Ejercicios de Pandas
 * Ficheros para trabajar en Pandas
 * Tabla SQL para trabajar en Pandas
+* Ficheros exportados con Pandas
+* Apuntes de teorías de MatPlotLib
+* Ejercicios de MatPlotLib
+* Ficheros para trabajar en MatPlotLib
+* Apuntes de teoría de Seaborn
+* Ejercicios de Seaborn
+* Ficheros para trabajar en Seaborn
+* Ejercicos Variados
+* Ejercicios Variados resueltos
+* Ficheros para Ejercicios Variados
+* Exámen del tema 2
+* Exámen resuelto del team 2
+
+## Tema 4: Tratamiento de la imagen
+
+* Ejercicios para el tratamiento de imagen
