@@ -2,6 +2,7 @@
 
 ## Tema 1: Lenguajes de Programación para IA
 
+#### Python
 * Apuntes de Teoría Python
 * Ejercicios de Python Básicos
 * Ejercicios de Python Avanzados
@@ -27,6 +28,6 @@
 * Exámen del tema 2
 * Exámen resuelto del team 2
 
-## Tema 4: Tratamiento de la imagen
+## Tema 3: Tratamiento de la imagen
 
 * Ejercicios para el tratamiento de imagen
