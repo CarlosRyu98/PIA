@@ -42,5 +42,5 @@
 
 ## Tema 3: Tratamiento de la imagen
 
-#### Tratamiento de la imagen
+#### 01 - Tratamiento de la imagen
 * Ejercicios para el tratamiento de imagen
