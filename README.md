@@ -42,20 +42,33 @@
 
 ## Tema 3: Tratamiento de la imagen
 
-#### 01 - Práctica 1
+#### 01 - Práctica 1 Base
+* Ejercicios para el tratamiento de imagen básicos
+* Imágenes para el tratamiento
+
+#### 02 - Práctica 2 Transformaciones Base
+* Ejercicios para el tratamiento de imagen transformaciones básicas
+
+#### 03 - Práctica 3 Suavizado y ruido
 * Ejercicios para el tratamiento de imagen
 * Imágenes para el tratamiento
 
-#### 02 - Práctica 2
+#### 04 - Práctica 4 Binarización
 * Ejercicios para el tratamiento de imagen
 
-#### 03 - Práctica 3
+#### 05 - Práctica 5 Umbralización
 * Ejercicios para el tratamiento de imagen
 * Imágenes para el tratamiento
 
-#### 04 - Práctica 4
+#### 06 - Práctica 6 Segmentación
 * Ejercicios para el tratamiento de imagen
+* Imágenes para el tratamiento
 
-#### 05 - Práctica 5
+#### 07 - Práctica 7 
+* Ejercicios para el tratamiento de imagen
+* Ejercicios para el tratamiento de imagen resueltos
+* Imágenes para el tratamiento
+
+#### 05 - Práctica 5 Umbralización
 * Ejercicios para el tratamiento de imagen
 * Imágenes para el tratamiento
