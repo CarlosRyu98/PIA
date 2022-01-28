@@ -50,25 +50,39 @@
 * Ejercicios para el tratamiento de imagen transformaciones básicas
 
 #### 03 - Práctica 3 Suavizado y ruido
-* Ejercicios para el tratamiento de imagen
+* Ejercicios para el tratamiento de imagen con suavizado y ruido
 * Imágenes para el tratamiento
 
 #### 04 - Práctica 4 Binarización
-* Ejercicios para el tratamiento de imagen
+* Ejercicios para el tratamiento de imagen usando binarización
 
 #### 05 - Práctica 5 Umbralización
 * Ejercicios para el tratamiento de imagen
 * Imágenes para el tratamiento
 
 #### 06 - Práctica 6 Segmentación
-* Ejercicios para el tratamiento de imagen
-* Imágenes para el tratamiento
+* Ejercicios para el tratamiento de imagen¡
 
-#### 07 - Práctica 7 
+#### 07 - Práctica 7 Detección bordes
 * Ejercicios para el tratamiento de imagen
 * Ejercicios para el tratamiento de imagen resueltos
 * Imágenes para el tratamiento
 
-#### 05 - Práctica 5 Umbralización
+#### 08 - Práctica 8 Final
 * Ejercicios para el tratamiento de imagen
 * Imágenes para el tratamiento
+
+#### 09 - Práctica 9 Repaso
+* Ejercicios para el tratamiento de imagen
+
+#### 10 - Examen
+* Ejercicios para el tratamiento de imagen
+* Imágenes para el tratamiento
+
+
+## Tema 4: Redes neuronales
+
+### 00 - Intentos propios
+
+### 01 - Neurona
+* Programación de una neurona
