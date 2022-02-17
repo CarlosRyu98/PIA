@@ -1,0 +1,33 @@
+# Display function
+def show_training(nn, X, Y, costs, lr, iterations):
+    loss = []
+
+    for i in range(iterations):
+        # Train neural network
+        results = nn.train(X, Y, costs[1], lr)
+
+        # Every 50 iterations, we check if network is learning showing the graphics
+        if i % 50 == 0:
+            # Save costs returns
+            loss.append(costs[0](results, Y))
+
+            # Show how our network is predicting
+            res = 50
+            _x0 = np.linspace(-1.5, 1.5, res)
+            _x1 = np.linspace(-1.5, 1.5, res)
+            _Y  = np.zeros((res, res))
+            for i0, x0 in enumerate(_x0):
+                for i1, x1 in enumerate(_x1):
+                    _Y[i0, i1] = nn.test(np.array([[x0, x1]]))[0][0]
+            
+            plt.pcolormesh(_x0, _x1, _Y, cmap="coolwarm")
+            plt.axis("equal")
+
+            plt.scatter(X[Y[:,0] == 0, 0], X[Y[:,0] == 0, 1], c="skyblue")
+            plt.scatter(X[Y[:,0] == 1, 0], X[Y[:,0] == 1, 1], c="salmon")
+
+            clear_output(wait=True)
+            plt.show()
+            plt.plot(range(len(loss)), loss)
+            plt.show()
+            time.sleep(0.25)
